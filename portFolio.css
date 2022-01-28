@@ -51,7 +51,7 @@ body{
 }
 .image img{
     width:100%;
-    border-radius: 120px;
+   padding-right: 136.1px;
 }
 .btn-1{
     width: 150px;
@@ -163,6 +163,9 @@ border: none;
 }
 .card-skills .card-header{
     border: 1px solid #fff;
+}
+.progress-bar{
+    background-color: #03C6C7 !important;
 }
 .contact{
     margin-bottom: 50px;
